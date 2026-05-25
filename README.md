@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Aniket — a CS student crafting full-stack apps and training AI models like it’s a science experiment with infinite variables.<br>I’m into GenAI, ML/DL, and anything that lets me blend logic with creativity.<br>Currently optimizing both my code and caffeine intake. 💻🧠☕
+Hey, I’m Aniket — a CS student crafting full-stack apps and training AI models like it’s a science experiment with infinite variables.<br>I’m into GenAI, ML/DL, and anything that lets me blend logic with creativity.
 
 
 ## 🌐 Socials:
